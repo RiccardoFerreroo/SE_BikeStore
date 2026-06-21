@@ -110,3 +110,4 @@ class Controller:
             self._view.txt_risultato.controls.append(ft.Text(f"{p}"))
         self._view.txt_risultato.controls.append(ft.Text(f"Score: {score}"))
         self._view.update()
+        #fine
